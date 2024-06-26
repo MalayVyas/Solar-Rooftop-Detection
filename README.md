@@ -21,7 +21,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
   ```
-   git clone https://github.com/yourusername/rooftop-detection.git
+   git clone https://github.com/MalayVyas/Solar-Rooftop-Detection.git
    cd rooftop-detection
   ```
 2. Create a virtual environment:
